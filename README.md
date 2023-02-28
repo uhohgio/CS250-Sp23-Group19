@@ -2,3 +2,4 @@
 CS250 Spring 2023 - Group 19
 
 Giovanna Ehrig
+Jorge Campillo
